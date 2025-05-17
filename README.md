@@ -34,24 +34,24 @@ Try the live demo: [webbuilder Demo](https://v0-drag-and-drop-prototype-lyart.ve
 ### Setup
 
 1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yourusername/geobuilder.git
-   cd geobuilder
-   \`\`\`
+   ```
+   git clone https://github.com/kingslayer458/Website-builder--in-progress.git
+
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. Start the development server:
-   \`\`\`bash
+   ```
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 4. Open your browser and navigate to `http://localhost:3000`
 
