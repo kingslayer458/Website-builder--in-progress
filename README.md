@@ -1,9 +1,5 @@
 # Demo Website Builder
 
-![Logo](https://via.placeholder.com/150x50?text=GeoBuilder)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-
 WebXbuilder is a powerful drag-and-drop website builder that lets you create responsive websites without coding. Inspired by nature's perfect design patterns, GeoBuilder provides an intuitive interface for building beautiful websites quickly and easily.
 
 ## ✨ Features
