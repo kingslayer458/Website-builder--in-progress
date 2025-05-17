@@ -83,7 +83,7 @@ Try the live demo: [webbuilder Demo](https://v0-drag-and-drop-prototype-lyart.ve
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 geobuilder/
 ├── app/                  # Next.js app directory
 │   ├── landing/          # Landing page route
@@ -104,7 +104,7 @@ geobuilder/
 ├── hooks/                # Custom React hooks
 ├── public/               # Static assets
 └── ...
-\`\`\`
+```
 
 ## 👥 Contributing
 
